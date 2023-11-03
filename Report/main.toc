@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Kernel Methods}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Question 01}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Question 02}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Question 03}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Question 04}{3}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Implementation of Kernel and Results}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data Generation and Visualization}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Using mapping functions}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Running Linear SVC}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}References}{7}{section.3}%
+\contentsline {section}{\numberline {4}Github Repository}{7}{section.4}%
