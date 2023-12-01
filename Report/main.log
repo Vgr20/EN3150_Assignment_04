@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.11.29)  29 NOV 2023 06:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.11.29)  1 DEC 2023 06:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -569,105 +569,105 @@ Package pdftex.def Info: images/University_of_Moratuwa_logo.png  used on input l
  [2] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 215.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 217.
  (./code1.py)
 <images/1.png, id=81, 403.9893pt x 298.4751pt>
 File: images/1.png Graphic file (type png)
 <use images/1.png>
-Package pdftex.def Info: images/1.png  used on input line 219.
+Package pdftex.def Info: images/1.png  used on input line 221.
 (pdftex.def)             Requested size: 247.94499pt x 183.18535pt.
  [3
 
  <./images/1.png>] (./code2.py)
-<images/2.png, id=124, 295.5843pt x 285.4665pt>
+<images/2.png, id=125, 295.5843pt x 285.4665pt>
 File: images/2.png Graphic file (type png)
 <use images/2.png>
-Package pdftex.def Info: images/2.png  used on input line 239.
+Package pdftex.def Info: images/2.png  used on input line 241.
 (pdftex.def)             Requested size: 247.94499pt x 239.45917pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
-<images/6.png, id=125, 403.9893pt x 298.4751pt>
+<images/6.png, id=126, 403.9893pt x 298.4751pt>
 File: images/6.png Graphic file (type png)
 <use images/6.png>
-Package pdftex.def Info: images/6.png  used on input line 253.
+Package pdftex.def Info: images/6.png  used on input line 255.
 (pdftex.def)             Requested size: 247.94499pt x 183.18535pt.
-<images/7.png, id=126, 295.5843pt x 285.4665pt>
+<images/7.png, id=127, 295.5843pt x 285.4665pt>
 File: images/7.png Graphic file (type png)
 <use images/7.png>
-Package pdftex.def Info: images/7.png  used on input line 259.
+Package pdftex.def Info: images/7.png  used on input line 261.
 (pdftex.def)             Requested size: 247.94499pt x 239.45917pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 [4 <./images/2.png> <./images/6.png> <./images/7.png>] (./code3.py)
-<images/3.png, id=155, 296.307pt x 287.6346pt>
+<images/3.png, id=156, 296.307pt x 287.6346pt>
 File: images/3.png Graphic file (type png)
 <use images/3.png>
-Package pdftex.def Info: images/3.png  used on input line 284.
+Package pdftex.def Info: images/3.png  used on input line 286.
 (pdftex.def)             Requested size: 247.94499pt x 240.6941pt.
 
-Overfull \hbox (1.77614pt too wide) in paragraph at lines 288--289
+Overfull \hbox (1.77614pt too wide) in paragraph at lines 290--291
 \OT1/cmr/m/n/10.95 clus-ters of data in the higher di-men-sional space which
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
 
  []
 
 (./code4.py)
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
 
 (./code5.py [5 <./images/3.png>])
-<images/4.png, id=215, 295.5843pt x 285.4665pt>
+<images/4.png, id=216, 295.5843pt x 285.4665pt>
 File: images/4.png Graphic file (type png)
 <use images/4.png>
-Package pdftex.def Info: images/4.png  used on input line 318.
+Package pdftex.def Info: images/4.png  used on input line 320.
 (pdftex.def)             Requested size: 247.94499pt x 239.45917pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
 
 (./code5.py [6 <./images/4.png>])
-<images/5.png, id=292, 294.1389pt x 287.6346pt>
+<images/5.png, id=293, 294.1389pt x 287.6346pt>
 File: images/5.png Graphic file (type png)
 <use images/5.png>
-Package pdftex.def Info: images/5.png  used on input line 341.
+Package pdftex.def Info: images/5.png  used on input line 343.
 (pdftex.def)             Requested size: 247.94499pt x 242.47163pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 
  []
 
@@ -680,18 +680,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D753980B10DDBF7365CAE57CA8909A55;1599.
  ) 
 Here is how much of TeX's memory you used:
- 14582 strings out of 477652
- 218631 string characters out of 5830506
- 2261759 words of memory out of 5000000
+ 14583 strings out of 477652
+ 218644 string characters out of 5830506
+ 2262759 words of memory out of 5000000
  34657 multiletter control sequences out of 15000+600000
  523044 words of font info for 67 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  75i,12n,79p,554b,2133s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/vishagar/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on main.pdf (7 pages, 747451 bytes).
+Output written on main.pdf (7 pages, 747602 bytes).
 PDF statistics:
- 449 PDF objects out of 1000 (max. 8388607)
- 383 compressed objects within 4 object streams
- 211 named destinations out of 1000 (max. 500000)
+ 450 PDF objects out of 1000 (max. 8388607)
+ 384 compressed objects within 4 object streams
+ 212 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
